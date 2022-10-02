@@ -56,7 +56,7 @@ This work is funded by the CSU-LSAMP-NSF research grant,Explore CSR, CAHSI-REU, 
 **Powerpoint Recap: https://docs.google.com/presentation/d/1lFPLMPbLZruR6GWnJ7O5a6cUS2TTLBeogsLlUnRvHrI/edit?usp=sharing**
 
 **[1] Eliminating Topological Errors in Neural Network Rotation Estimation
-Using Self-selecting Ensembles (The main paper currently**
+Using Self-selecting Ensembles (The main paper currently)⭐**
 
 > _Original paper_:                   https://vgl.ict.usc.edu/Research/NNRE/Eliminating%20Topological%20Errors%20in%20Neural%20Network%20Rotation%20Estimation%20Using%20Self-selecting%20Ensembles.pdf
 
