@@ -7,7 +7,7 @@ This work is funded by the CSU-LSAMP-NSF research grant,Explore CSR, CAHSI-REU, 
 
 # Research Resources: 
 
-### 🔵Week 1: 
+### 🔵𝗪𝗲𝗲𝗸 #𝟭: 
 
 **[1] On UMAP's true loss function**
 
@@ -27,7 +27,7 @@ This work is funded by the CSU-LSAMP-NSF research grant,Explore CSR, CAHSI-REU, 
 
  > _Original Paper_ :                       https://www.semanticscholar.org/paper/Initialization-is-critical-for-preserving-global-in-Kobak-Linderman/d1fb7e7e88168347ed6e8a06b8227ab88d26ed8a
 
-### 🔵Week 2: 
+### 🔵𝗪𝗲𝗲𝗸 #2: 
 
 **Powerpoint Recap:** https://docs.google.com/presentation/d/1_z6uxcg5dpM57YKzehbv9SCh4gnkPNuwvJTYPZhOXOA/edit?usp=sharing
 
@@ -51,7 +51,7 @@ This work is funded by the CSU-LSAMP-NSF research grant,Explore CSR, CAHSI-REU, 
 
 > _Rapids website and info_:                https://rapids.ai/start.html
 
-### 🔵Week 3:
+### 🔵𝗪𝗲𝗲𝗸 #3:
 
 **Powerpoint Recap: https://docs.google.com/presentation/d/1lFPLMPbLZruR6GWnJ7O5a6cUS2TTLBeogsLlUnRvHrI/edit?usp=sharing**
 
@@ -68,7 +68,7 @@ Using Self-selecting Ensembles (The main paper currently**
 
 > _Original Paper_:                         https://arxiv.org/ftp/arxiv/papers/1904/1904.06554.pdf
 
-### 🔵Week 4:
+### 🔵𝗪𝗲𝗲𝗸 #4:
 
 **[1] Learning SO(3) Equivariant Representations**
 with Spherical CNNs
@@ -91,4 +91,4 @@ with Spherical CNNs
 
 > _Original Paper_:                        https://sci-hub.se/10.1016/1049-9660%2891%2990036-o
 
-### 🔵Week 5: 
+### 🔵𝗪𝗲𝗲𝗸 #5: 
