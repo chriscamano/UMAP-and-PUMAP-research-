@@ -70,6 +70,8 @@ Using Self-selecting Ensembles (The main paper currently)⭐**
 
 ### 🔵𝗪𝗲𝗲𝗸 #4 and #5:
 
+**Powerpoint recap: https://docs.google.com/presentation/d/1K5AjPqXhVQCFD0WLZ-Vpis6HOxZTRWp_oyC_s_zKd5Q/edit?usp=sharing**
+
 **[1] Learning SO(3) Equivariant Representations**
 with Spherical CNNs
 
