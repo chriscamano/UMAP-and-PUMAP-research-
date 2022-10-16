@@ -95,20 +95,20 @@ with Spherical CNNs
 
 ### 🔵𝗪𝗲𝗲𝗸 #6
 
-**Powerpoint recap: In person presentation
+**Powerpoint recap: In person presentation**
 
-**[1] Understading the gradient computation for least squares 
+**[1] Understading the gradient computation for least squares** 
 
 > _Original *Post :                        https://math.stackexchange.com/questions/3451272/does-gradient-descent-converge-to-a-minimum-norm-solution-in-least-squares-probl
 
-**[2] More gradient computation examples **
+**[2] More gradient computation examples**
 > _Original *Post_:                        https://cs.stackexchange.com/questions/105705/image-registration-using-gradient-descent
 
 **[3] Study of Invariance over gradient descent** 
 
 > _Original Powerpoint_:                   https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2021/slides/lec01.pdf
 
-**[4] A novel rotation Algorithm worth considering ** 
+**[4] A novel rotation Algorithm worth considering** 
 
 > _Original Paper_:                   https://proceedings.neurips.cc/paper/2009/file/82cec96096d4281b7c95cd7e74623496-Paper.pdf
 
