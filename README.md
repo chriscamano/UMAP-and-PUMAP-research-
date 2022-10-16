@@ -110,10 +110,16 @@ with Spherical CNNs
 
 **[4] A novel rotation Algorithm worth considering** 
 
-> _Original Paper_:                   https://proceedings.neurips.cc/paper/2009/file/82cec96096d4281b7c95cd7e74623496-Paper.pdf
+> _Original Paper_:                        https://proceedings.neurips.cc/paper/2009/file/82cec96096d4281b7c95cd7e74623496-Paper.pdf
 
 ### 🔵𝗪𝗲𝗲𝗸 #7
 
 **Powerpoint recap: https://docs.google.com/presentation/d/1K5AjPqXhVQCFD0WLZ-Vpis6HOxZTRWp_oyC_s_zKd5Q/edit?usp=sharing**
 
-**[1] Under construction**
+**[1] Differentiating SVD**
+
+
+> _Original Paper_:                        https://j-towns.github.io/papers/svd-derivative.pdf
+> _Supplemental overview of paper_:        https://towardsdatascience.com/step-by-step-backpropagation-through-singular-value-decomposition-with-code-in-tensorflow-8056f7fbcbf3
+**[1] Derivatives in the context of matrix theory**
+> _Original Paper_:                        https://drive.google.com/viewerng/viewer?url=https://people.maths.ox.ac.uk/gilesm/files/NA-08-01.pdf
