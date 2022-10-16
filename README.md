@@ -121,5 +121,6 @@ with Spherical CNNs
 
 > _Original Paper_:                        https://j-towns.github.io/papers/svd-derivative.pdf
 > _Supplemental overview of paper_:        https://towardsdatascience.com/step-by-step-backpropagation-through-singular-value-decomposition-with-code-in-tensorflow-8056f7fbcbf3
-**[1] Derivatives in the context of matrix theory**
+> 
+**[2] Derivatives in the context of matrix theory**
 > _Original Paper_:                        https://drive.google.com/viewerng/viewer?url=https://people.maths.ox.ac.uk/gilesm/files/NA-08-01.pdf
